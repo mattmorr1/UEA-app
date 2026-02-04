@@ -17,7 +17,7 @@
     "@mui/icons-material": "^5.15.6",
     "@mui/material": "^5.15.6",
     "diff": "^5.1.0",
-    "firebase": "^10.7.2",
+    "firebase": "^12.8.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-pdf": "^7.7.0",
