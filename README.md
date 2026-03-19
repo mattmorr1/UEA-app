@@ -1,3 +1,4 @@
 wip
+*need to finish readme mb*
 
-v1: 
+deploy: gcloud builds submit --config=config/cloudbuild.yaml
